@@ -104,4 +104,12 @@ footer h2{
 
 .media{
     margin-top: 50px;
+
+}
+
+@media screen and (max-width:768px){
+    .content{
+        flex-direction: column;
+    }
+    
 }
